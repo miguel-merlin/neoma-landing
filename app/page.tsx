@@ -92,7 +92,7 @@ const steps = [
     step: "1",
     title: "Ingest",
     description:
-      "Connect your quotes, emails, and customer data sources. Neoma structures everything into a unified CRM dataset automatically.",
+      "Connect your quotes, emails, and customer data sources. Neoma includes a native HubSpot connection and structures everything into a unified CRM dataset automatically.",
   },
   {
     step: "2",
