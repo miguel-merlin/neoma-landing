@@ -8,15 +8,15 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Neoma — AI Sales Intelligence for Growing Teams",
+  title: "SignalIQ — AI-Native GTM Intelligence for B2B Companies",
   description:
-    "Neoma automatically captures, enriches, and acts on your sales data. AI-powered CRM ingestion that drives 18% more revenue.",
+    "SignalIQ autonomously discovers growth opportunities for B2B companies. ML-powered ICP clustering, signal discovery, and macro intelligence — no data science team required.",
   openGraph: {
-    title: "Neoma — AI Sales Intelligence for Growing Teams",
+    title: "SignalIQ — AI-Native GTM Intelligence for B2B Companies",
     description:
-      "Automate CRM enrichment, build ideal customer profiles, and surface upsell opportunities with Neoma.",
-    url: "https://neoma.dev",
-    siteName: "Neoma",
+      "Cluster your customers into ICPs, generate ranked signal hypotheses, and bridge macroeconomic trends to your pipeline. Start with a free ICP audit.",
+    url: "https://signaliq.ai",
+    siteName: "SignalIQ",
   },
 };
 
